@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-flflf
-=======
->>>>>>> origin/branch1
+jip
